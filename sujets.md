@@ -48,15 +48,7 @@ Sources: World Bank, Statista, U.S Energy Administration...
 
 ### sujet #5: les tremblements de terre
 
-* les données brutes  
-  <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/export/>  
-  (données GeoJSON à charger avec `geopandas`)
-
-* le mode d'emploi des données  
-  <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/information/>
-
-* des exemples d'utilisation de ces données  
-  <https://public.opendatasoft.com/explore/dataset/significant-earthquake-database/map/>
+* sujet un peu dégradé; les données brutes sont dans [data/earthquakes.csv](data/earthquakes.csv)
 
 ## des données à caractère financier
 
